@@ -1,0 +1,22 @@
+html {
+    width: 100%;
+    background-color: bisque;
+}
+
+body {
+    width: 80%;
+    background-color: rgb(124, 155, 155);
+    margin: 0 auto;
+    min-height: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.datepicker {
+        width: 330%;
+        margin: auto;
+        text-align: center;
+        padding: 5px;
+}
